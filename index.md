@@ -26,10 +26,10 @@ listen music
 play computer games
 
 ## Favorite Food
-* Fried Crab in Typhoon Shelter [Fried Crab in Typhoon Shelter](11.png)
-* Spicy chicken [Spicy chicken](22.png)
-* Grilled fish [Grilled fish](33.png)
-* Braised Pork [Braised Pork](44.png)
+* [Fried Crab in Typhoon Shelter](11.png)
+* [Spicy chicken](22.png)
+* [Grilled fish](33.png)
+* [Braised Pork](44.png)
 
 ## Favorite computer games
 1. NBA 2K
@@ -42,5 +42,5 @@ play computer games
 - [ ] go to gym
 
 
-[back](#Introduce-myself)
+[back](#introduce-myself)
 
