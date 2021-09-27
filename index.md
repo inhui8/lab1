@@ -1,5 +1,5 @@
 #Yinghui Sun's User Page
-[Yinghui Sun](5.jpg)
+[Yinghui Sun](55.jpg)
 ## Introduce myself
 Hi, my name is **Yinghui Sun**, and you can call me **Allen**, and I was born in **China**. I am a computer science major student, and I was transfered student from *East Los Angeles college* to *UCSd* last year. As a programmer, **I was learned _`C++`, `java`, and a little bit `C language`_ in either East Los Angeles College or UCSD.** I really want to learn more knowledge about programming. 
 
@@ -26,10 +26,10 @@ listen music
 play computer games
 
 ## Favorite Food
-* Fried Crab in Typhoon Shelter [Fried Crab in Typhoon Shelter](1.png)
-* Spicy chicken [Spicy chicken](2.png)
-* Grilled fish [Grilled fish](3.png)
-* Braised Pork [Braised Pork](4.png)
+* Fried Crab in Typhoon Shelter [Fried Crab in Typhoon Shelter](11.png)
+* Spicy chicken [Spicy chicken](22.png)
+* Grilled fish [Grilled fish](33.png)
+* Braised Pork [Braised Pork](44.png)
 
 ## Favorite computer games
 1. NBA 2K
@@ -40,6 +40,7 @@ play computer games
 - [x] memorize English words
 - [ ] code exercise
 - [ ] go to gym
+
 
 [back](#Introduce-myself)
 
