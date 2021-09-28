@@ -29,8 +29,11 @@ Hangzhou West Lake
 
 ## My hobby
 cook
+
 watch movies
+
 listen music
+
 play computer games
 
 ## Favorite Food
