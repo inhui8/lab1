@@ -1,15 +1,13 @@
 #Yinghui Sun's User Page
-[Yinghui Sun](55.jpg)
+![Yinghui Sun](55.jpg)
 ## Introduce myself
 Hi, my name is **Yinghui Sun**, and you can call me **Allen**, and I was born in **China**. I am a computer science major student, and I was transfered student from *East Los Angeles college* to *UCSd* last year. As a programmer, **I was learned _`C++`, `java`, and a little bit `C language`_ in either East Los Angeles College or UCSD.** I really want to learn more knowledge about programming. 
 
 ## My Favorite Star
 ![Kobe Bryant](https://clutchpoints.com/wp-content/uploads/2020/01/Kobe-Bryant-killed-in-fatal-helicopter-crash.jpg)
-<br />
-[Kobe Bryant](index2.md)
-<br />
-My favorite star is **Kobe Bryant** which is a basketball superstar, but he was died on January 26th, 2020. I was really sad when I know this news. I still remember that Kobe's word and deeds have been driving me forward all the time.
-<br />
+[Kobe Bryant](index2.md)<br />
+My favorite star is **Kobe Bryant** which is a basketball superstar, but he was died on January 26th, 2020. I was really sad when I know this news. I still remember that Kobe's word and deeds have been driving me forward all the time.<br />
+
 In the word of Kobe Brant:
 > Everything negative - pressure, chanllenges - is all an opportunity for me to rise.
 
