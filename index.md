@@ -14,7 +14,11 @@ In the word of Kobe Brant:
 > Everything negative - pressure, chanllenges - is all an opportunity for me to rise.
 
 ## My Favorite Movie
-My favorite film is **Fight back to school 1** which is a comedy.The site is [Fight back to school 1](https://www.youtube.com/watch?v=tYI1xW2p8Bo).This comedy is one of the classic comedy movies, starred by my favorite movie star Stephen Chow, it always brings me a lot of joy when I am unhappy.
+My favorite film is **Fight back to school 1** which is a comedy.
+
+The site is [Fight back to school 1](https://www.youtube.com/watch?v=tYI1xW2p8Bo).
+
+This comedy is one of the classic comedy movies, starred by my favorite movie star Stephen Chow, it always brings me a lot of joy when I am unhappy.
 
 ## Place I travelled
 ```
