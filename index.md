@@ -5,8 +5,11 @@ Hi, my name is **Yinghui Sun**, and you can call me **Allen**, and I was born in
 
 ## My Favorite Star
 ![Kobe Bryant](https://clutchpoints.com/wp-content/uploads/2020/01/Kobe-Bryant-killed-in-fatal-helicopter-crash.jpg)
+<br />
 [Kobe Bryant](index2.md)
+<br />
 My favorite star is **Kobe Bryant** which is a basketball superstar, but he was died on January 26th, 2020. I was really sad when I know this news. I still remember that Kobe's word and deeds have been driving me forward all the time.
+<br />
 In the word of Kobe Brant:
 > Everything negative - pressure, chanllenges - is all an opportunity for me to rise.
 
